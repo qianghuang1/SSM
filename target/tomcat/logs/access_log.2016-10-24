@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [24/Oct/2016:18:39:50 +0800] "GET /spring/user/nickname HTTP/1.1" 405 1045 http-bio-8080-exec-1 73
+0:0:0:0:0:0:0:1 - - [24/Oct/2016:18:39:53 +0800] "GET /spring/user/nickname/1 HTTP/1.1" 500 5038 http-bio-8080-exec-4 129
+0:0:0:0:0:0:0:1 - - [24/Oct/2016:20:28:40 +0800] "GET /spring/user/nickname/1 HTTP/1.1" 500 14970 http-bio-8080-exec-1 282
+0:0:0:0:0:0:0:1 - - [24/Oct/2016:20:32:38 +0800] "GET /spring/user/nickname/1 HTTP/1.1" 500 27411 http-bio-8080-exec-1 329
+0:0:0:0:0:0:0:1 - - [24/Oct/2016:20:33:53 +0800] "GET /spring/user/nickname/1 HTTP/1.1" 500 12676 http-bio-8080-exec-1 1398
+0:0:0:0:0:0:0:1 - - [24/Oct/2016:20:35:05 +0800] "GET /spring/user/nickname/1 HTTP/1.1" 200 - http-bio-8080-exec-1 1144
